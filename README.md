@@ -1,5 +1,19 @@
 # face-recognition-javascript-webcam-faceapi
 
+Este repositorio es un fork del proyecto original en el que adapté el código para que funcione con Electron
+```bash
+git clone https://github.com/xderrisk/face-recognition-javascript-webcam-faceapi.git
+```
+```bash
+cd face-recognition-javascript-webcam-faceapi
+```
+```bash
+npm install
+```
+```bash
+npm start
+```
+
 Face recognition on webcam with Javascript !
 
 [![Watch the video](https://img.youtube.com/vi/yBgXx0FLYKc/0.jpg)](https://www.youtube.com/watch?v=yBgXx0FLYKc)

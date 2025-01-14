@@ -1,0 +1,15 @@
+{
+  "name": "face-recognition-javascript-webcam-faceapi",
+  "version": "1.0.0",
+  "description": "Reconocimineto Facial con JS",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Sergio Galarza",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.3.1"
+  }
+}
