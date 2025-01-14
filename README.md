@@ -1,11 +1,11 @@
-# face-recognition-javascript-webcam-faceapi
+# face-recognition-electron-webcam-faceapi
 
 Este repositorio es un fork del proyecto original en el que adapté el código para que funcione con Electron
 ```bash
-git clone https://github.com/xderrisk/face-recognition-javascript-webcam-faceapi.git
+git clone https://github.com/xderrisk/face-recognition-electron-webcam-faceapi.git
 ```
 ```bash
-cd face-recognition-javascript-webcam-faceapi
+cd face-recognition-electron-webcam-faceapi
 ```
 ```bash
 npm install
